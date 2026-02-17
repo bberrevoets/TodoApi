@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Documentation/">
     <File Path="CLAUDE.md" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="TodoApi/TodoApi.csproj" />
 </Solution>
